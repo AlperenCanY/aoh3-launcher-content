@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-26T16:17:36.3133164Z",
+  "updatedAt": "2026-04-26T16:17:37.3350088Z",
   "campaign": {
     "title": "BUYUK IMPARATORLUKLAR",
     "subtitle": "One Cikan Kampanya",
@@ -18,7 +18,7 @@
       "content": "\u00C7\u0131kt\u0131",
       "dateText": "26.04.2026",
       "createdAt": "2026-04-26T12:00:00Z",
-      "updatedAt": "2026-04-26T16:17:36.3121471Z",
+      "updatedAt": "2026-04-26T16:17:37.3343145Z",
       "isPinned": true,
       "isVisible": true
     }
@@ -46,7 +46,7 @@
     "isOnline": true,
     "statusText": "Sunucular Cevrimi\u00E7i",
     "detailText": "Requzese Aptal Oc",
-    "updatedAt": "2026-04-26T16:17:36.3121408Z"
+    "updatedAt": "2026-04-26T16:17:37.3343075Z"
   },
   "supporters": []
 }
