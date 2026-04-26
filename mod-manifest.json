@@ -1,15 +1,15 @@
 {
   "modId": "league-hard-rp",
   "displayName": "League Hard RP",
-  "version": "0.0.2B",
+  "version": "0.0.3B",
   "installMode": "GameRootPatch",
-  "targetJarName": "multi_diplomacy_fixed",
+  "targetJarName": "multi_diplomacy_fixed.jar",
   "packageUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/packages/modv1.zip",
   "packageSha256": "D083D8D20BBBF5B092AFDCE0F32DBE9ED98992BC6AF86E1EBC038800F477DE3D",
   "packageSizeBytes": 21034470,
   "installFolderName": "LeagueHardRP",
   "mainFolderInZip": "",
-  "updatedAt": "2026-04-26T20:24:13.3269509Z",
+  "updatedAt": "2026-04-26T20:32:22.203214Z",
   "files": [
     {
       "relativePath": "multi_diplomacy_fixed.jar",
