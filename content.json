@@ -1,0 +1,54 @@
+{
+  "version": "1.0.0",
+  "updatedAt": "2026-04-26T12:00:00Z",
+  "campaign": {
+    "title": "BÜYÜK İMPARATORLUKLAR",
+    "subtitle": "ÖNE ÇIKAN KAMPANYA",
+    "description": "İmparatorluklar yükselecek, milletler unutulur. Tarih, cesurların kalemidir.",
+    "buttonText": "DETAYI AÇ",
+    "buttonUrl": "https://discord.com",
+    "imageUrl": "",
+    "isVisible": true
+  },
+  "news": [
+    {
+      "id": "00000000-0000-0000-0000-000000000001",
+      "title": "League Mod 1.1",
+      "summary": "Yeni sezon içerikleri eklendi.",
+      "content": "Bu güncellemede yeni denge ayarları, online duyuru sistemi ve launcher düzenlemeleri eklendi.",
+      "dateText": "26.04.2026",
+      "createdAt": "2026-04-26T12:00:00Z",
+      "updatedAt": "2026-04-26T12:00:00Z",
+      "isPinned": true,
+      "isVisible": true
+    }
+  ],
+  "patchNotes": [
+    {
+      "version": "1.1",
+      "title": "League Mod 1.1",
+      "dateText": "26.04.2026",
+      "lines": [
+        "Online içerik sistemi eklendi.",
+        "Launcher duyuruları GitHub üzerinden okunacak.",
+        "Yönetici paneli ayrı program olarak kullanılacak."
+      ],
+      "isVisible": true
+    }
+  ],
+  "communityLinks": {
+    "discordUrl": "https://discord.com",
+    "forumUrl": "https://steamcommunity.com",
+    "steamHubUrl": "https://steamcommunity.com",
+    "steamStoreUrl": "https://store.steampowered.com",
+    "websiteUrl": "https://example.com",
+    "donateUrl": "https://www.buymeacoffee.com"
+  },
+  "serverStatus": {
+    "isOnline": true,
+    "statusText": "Sunucular Çevrimiçi",
+    "detailText": "Launcher içerikleri başarıyla yüklendi.",
+    "updatedAt": "2026-04-26T12:00:00Z"
+  },
+  "supporters": []
+}
