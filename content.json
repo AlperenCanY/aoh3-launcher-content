@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-26T15:38:36.4691593Z",
+  "updatedAt": "2026-04-26T15:39:07.7817593Z",
   "campaign": {
     "title": "BUYUK IMPARATORLUKLAR",
     "subtitle": "One Cikan Kampanya",
@@ -18,7 +18,7 @@
       "content": "Requzese Aptal Oc",
       "dateText": "26.04.2026",
       "createdAt": "2026-04-26T12:00:00Z",
-      "updatedAt": "2026-04-26T15:38:33.0956181Z",
+      "updatedAt": "2026-04-26T15:38:54.6044669Z",
       "isPinned": true,
       "isVisible": true
     }
@@ -43,10 +43,10 @@
     "donateUrl": "https://www.buymeacoffee.com"
   },
   "serverStatus": {
-    "isOnline": false,
-    "statusText": "Sunucular Cevrimd\u0131\u015F\u0131",
-    "detailText": "Launcher icerikleri basariyla guncellendi.",
-    "updatedAt": "2026-04-26T15:38:36.4683852Z"
+    "isOnline": true,
+    "statusText": "Sunucular Cevrimi\u00E7i",
+    "detailText": "Requzese Aptal Oc",
+    "updatedAt": "2026-04-26T15:39:07.7810324Z"
   },
   "supporters": []
 }
