@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-26T15:59:30.7535174Z",
+  "updatedAt": "2026-04-26T16:11:58.0775254Z",
   "campaign": {
     "title": "BUYUK IMPARATORLUKLAR",
     "subtitle": "One Cikan Kampanya",
@@ -13,12 +13,12 @@
   "news": [
     {
       "id": "00000000-0000-0000-0000-000000000001",
-      "title": "League Mod 0.1",
+      "title": "League Mod 0.122",
       "summary": "Requzese Aptal OcE",
       "content": "Requzese Aptal OcE",
       "dateText": "26.04.2026",
       "createdAt": "2026-04-26T12:00:00Z",
-      "updatedAt": "2026-04-26T15:59:14.1194866Z",
+      "updatedAt": "2026-04-26T16:11:55.4651796Z",
       "isPinned": true,
       "isVisible": true
     },
@@ -57,7 +57,7 @@
     "isOnline": true,
     "statusText": "Sunucular Cevrimi\u00E7i",
     "detailText": "Requzese Aptal Oc",
-    "updatedAt": "2026-04-26T15:59:30.7529153Z"
+    "updatedAt": "2026-04-26T16:11:58.0766588Z"
   },
   "supporters": []
 }
