@@ -1,18 +1,37 @@
-﻿{
-    "modId":  "league-hard-rp",
-    "displayName":  "League Hard RP",
-    "version":  "0.1.0",
-    "installMode":  "GameRootPatch",
-    "targetJarName":  "multi_occupation_gift_fix_20260426.jar",
-    "packageUrl":  "https://github.com/AlperenCanY/aoh3-launcher-content/raw/main/packages/league-hard-rp-0.1.0.zip",
-    "packageSha256":  "EA6A48A0DF218B20CD1CCA51EE5EAAC4A4A78A9C472131E121AB968E2B7EAB13",
-    "packageSizeBytes":  20941506,
-    "installFolderName":  "LeagueHardRP",
-    "mainFolderInZip":  "",
-    "updatedAt":  "2026-04-26T19:44:32.0952237Z",
-    "files":  [
-
-              ],
-    "notes":  "Test paketi. Secili oyun JAR dosyasinin kopyasi ve test metinleri icerir.",
-    "isRequired":  true
+{
+  "modId": "league-hard-rp",
+  "displayName": "League Hard RP",
+  "version": "0.0.1b",
+  "installMode": "GameRootPatch",
+  "targetJarName": "multi_save_feature_fix4b_20260426.jar",
+  "packageUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/packages/update01.zip",
+  "packageSha256": "4277C91454576E43246F59B2CDC3B2564EA91A5D4B500D349431B56D773461D2",
+  "packageSizeBytes": 21008963,
+  "installFolderName": "LeagueHardRP",
+  "mainFolderInZip": "",
+  "updatedAt": "2026-04-26T20:20:51.1691801Z",
+  "files": [
+    {
+      "relativePath": "multi_save_feature_fix4b_20260426.jar",
+      "sha256": "1582CA5F089720695F20C7B816287FBCEF8431E878F55606B653CE93B026B7E1",
+      "sizeBytes": 22435575
+    },
+    {
+      "relativePath": "ui/league/cagirma.png",
+      "sha256": "DBAD7A0B80ACA5FB3AFE4281A1D88F4CBF8275943BC9362ADEAB696BA2E2D930",
+      "sizeBytes": 1071
+    },
+    {
+      "relativePath": "ui/league/gorusme.ogg",
+      "sha256": "40B002A7D2841BD2E5801BA8857B2D3B237BDA535E6C43F01B7B06F6A9B5E29D",
+      "sizeBytes": 66652
+    },
+    {
+      "relativePath": "ui/league/gorusme.png",
+      "sha256": "77571EEF7E3C006AF7E07D5535C2D2DC304EEB5D405C5132AC738653F8F7B3F9",
+      "sizeBytes": 5038
+    }
+  ],
+  "notes": "",
+  "isRequired": true
 }
