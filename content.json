@@ -1,11 +1,11 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-26T12:00:00Z",
+  "updatedAt": "2026-04-26T15:03:58.6472752Z",
   "campaign": {
-    "title": "BÜYÜK İMPARATORLUKLAR",
-    "subtitle": "ÖNE ÇIKAN KAMPANYA",
-    "description": "İmparatorluklar yükselecek, milletler unutulur. Tarih, cesurların kalemidir.",
-    "buttonText": "DETAYI AÇ",
+    "title": "BUYUK IMPARATORLUKLAR",
+    "subtitle": "One Cikan Kampanya",
+    "description": "Imparatorluklar yukselecek, milletler unutulur. Tarih, cesurlarin kalemidir.",
+    "buttonText": "Detayi Ac",
     "buttonUrl": "https://discord.com",
     "imageUrl": "",
     "isVisible": true
@@ -13,42 +13,40 @@
   "news": [
     {
       "id": "00000000-0000-0000-0000-000000000001",
-      "title": "League Mod 1.1",
-      "summary": "Yeni sezon içerikleri eklendi.",
-      "content": "Bu güncellemede yeni denge ayarları, online duyuru sistemi ve launcher düzenlemeleri eklendi.",
+      "title": "League Mod 0.1",
+      "summary": "Modumuz \u00C7\u0131k\u0131\u015F\u0131n\u0131 Yapt\u0131",
+      "content": "Modumuz \u00C7\u0131k\u0131\u015F\u0131n\u0131 Yapt\u0131",
       "dateText": "26.04.2026",
       "createdAt": "2026-04-26T12:00:00Z",
-      "updatedAt": "2026-04-26T12:00:00Z",
+      "updatedAt": "2026-04-26T14:58:23.9476119Z",
       "isPinned": true,
       "isVisible": true
     }
   ],
   "patchNotes": [
     {
-      "version": "1.1",
-      "title": "League Mod 1.1",
+      "version": "0.1",
+      "title": "League Mod 0.1",
       "dateText": "26.04.2026",
       "lines": [
-        "Online içerik sistemi eklendi.",
-        "Launcher duyuruları GitHub üzerinden okunacak.",
-        "Yönetici paneli ayrı program olarak kullanılacak."
+        "Modumuz \u00C7\u0131k\u0131\u015F\u0131n\u0131 Yapt\u0131"
       ],
       "isVisible": true
     }
   ],
   "communityLinks": {
-    "discordUrl": "https://discord.com",
-    "forumUrl": "https://steamcommunity.com",
-    "steamHubUrl": "https://steamcommunity.com",
+    "discordUrl": "https://discord.gg/HQX9rZhyT5",
+    "forumUrl": "https://www.youtube.com/@League-multiplayer",
+    "steamHubUrl": "https://www.instagram.com/leaguemultiplayer?igsh=Z2JqamtlZjZveGN5",
     "steamStoreUrl": "https://store.steampowered.com",
     "websiteUrl": "https://example.com",
     "donateUrl": "https://www.buymeacoffee.com"
   },
   "serverStatus": {
-    "isOnline": true,
-    "statusText": "Sunucular Çevrimiçi",
-    "detailText": "Launcher içerikleri başarıyla yüklendi.",
-    "updatedAt": "2026-04-26T12:00:00Z"
+    "isOnline": false,
+    "statusText": "Sunucular Cevrimd\u0131\u015F\u0131",
+    "detailText": "Launcher icerikleri basariyla guncellendi.",
+    "updatedAt": "2026-04-26T15:03:58.64641Z"
   },
   "supporters": []
 }
