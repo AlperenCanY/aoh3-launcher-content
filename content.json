@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-26T15:58:51.8780813Z",
+  "updatedAt": "2026-04-26T15:59:20.2375624Z",
   "campaign": {
     "title": "BUYUK IMPARATORLUKLAR",
     "subtitle": "One Cikan Kampanya",
@@ -18,8 +18,19 @@
       "content": "Requzese Aptal OcE",
       "dateText": "26.04.2026",
       "createdAt": "2026-04-26T12:00:00Z",
-      "updatedAt": "2026-04-26T15:58:46.8698172Z",
+      "updatedAt": "2026-04-26T15:59:14.1194866Z",
       "isPinned": true,
+      "isVisible": true
+    },
+    {
+      "id": "351caf4d-e6c3-4a38-8515-950483b7d377",
+      "title": "1",
+      "summary": "1",
+      "content": "1",
+      "dateText": "26.04.2026",
+      "createdAt": "2026-04-26T15:59:18.6544525Z",
+      "updatedAt": "2026-04-26T15:59:18.9657565Z",
+      "isPinned": false,
       "isVisible": true
     }
   ],
@@ -46,7 +57,7 @@
     "isOnline": true,
     "statusText": "Sunucular Cevrimi\u00E7i",
     "detailText": "Requzese Aptal Oc",
-    "updatedAt": "2026-04-26T15:58:51.8774569Z"
+    "updatedAt": "2026-04-26T15:59:20.2368846Z"
   },
   "supporters": []
 }
