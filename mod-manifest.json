@@ -1,0 +1,16 @@
+{
+  "modId": "league-hard-rp",
+  "displayName": "League Hard RP",
+  "version": "0.1.0",
+  "installMode": "GameRootPatch",
+  "targetJarName": "AgeOfHistory3.jar",
+  "packageUrl": "https://example.com/league-hard-rp-0.1.0.zip",
+  "packageSha256": "",
+  "packageSizeBytes": 0,
+  "installFolderName": "LeagueHardRP",
+  "mainFolderInZip": "",
+  "updatedAt": "2026-04-26T12:00:00Z",
+  "files": [],
+  "notes": "Ilk test manifesti.",
+  "isRequired": true
+}
