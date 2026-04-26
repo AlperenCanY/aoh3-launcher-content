@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-26T21:05:06.8729525Z",
+  "updatedAt": "2026-04-26T21:30:51.0014319Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "campaign": {
@@ -45,6 +45,17 @@
       "updatedAt": "2026-04-26T16:34:02.576107Z",
       "isPinned": false,
       "isVisible": true
+    },
+    {
+      "id": "c17e3531-dc91-4e65-918f-4342b6b69992",
+      "title": "Murat",
+      "summary": "1",
+      "content": "1",
+      "dateText": "27.04.2026",
+      "createdAt": "2026-04-26T21:30:48.3085458Z",
+      "updatedAt": "2026-04-26T21:30:51.0000999Z",
+      "isPinned": false,
+      "isVisible": true
     }
   ],
   "patchNotes": [
@@ -70,7 +81,7 @@
     "isOnline": true,
     "statusText": "Sunucular Cevrimd\u0131\u015F\u0131",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-26T21:05:06.872176Z"
+    "updatedAt": "2026-04-26T21:30:51.0000934Z"
   },
   "supporters": []
 }
