@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-26T18:06:59.198264Z",
+  "updatedAt": "2026-04-26T18:07:26.8159468Z",
   "backgroundImageUrl": "",
   "campaign": {
     "title": "League 1.0",
@@ -19,7 +19,7 @@
       "content": "Modumuz Bug\u00FCn \u0130tibariyle \u00C7\u0131k\u0131\u015F\u0131n\u0131 Ger\u00E7ekle\u015Ftirdi.",
       "dateText": "26.04.2026",
       "createdAt": "2026-04-26T12:00:00Z",
-      "updatedAt": "2026-04-26T18:06:59.1972802Z",
+      "updatedAt": "2026-04-26T18:07:26.8149625Z",
       "isPinned": true,
       "isVisible": true
     },
@@ -42,28 +42,6 @@
       "dateText": "26.04.2026",
       "createdAt": "2026-04-26T16:33:58.4569084Z",
       "updatedAt": "2026-04-26T16:34:02.576107Z",
-      "isPinned": false,
-      "isVisible": true
-    },
-    {
-      "id": "91545b25-13c4-4a5f-aea1-ed80ef5795cf",
-      "title": "Arben\u0027i D\u00F6vm\u00FC\u015Fler",
-      "summary": "Valla D\u00F6vm\u00FC\u015Fler",
-      "content": "A\u011Fz\u0131 y\u00FCz\u00FC kaym\u0131\u015F",
-      "dateText": "26.04.2026",
-      "createdAt": "2026-04-26T18:01:20.7662307Z",
-      "updatedAt": "2026-04-26T18:01:20.7662312Z",
-      "isPinned": false,
-      "isVisible": true
-    },
-    {
-      "id": "8bfcc74b-32dc-4fb9-ab85-1d203c970de7",
-      "title": "Revele\u0027yi Fena \u00D6pm\u00FC\u015Fler",
-      "summary": "Fahi\u015Fe olmu\u015F genelevlerde",
-      "content": "G\u00FCnl\u00FC\u011F\u00FC 5 tl",
-      "dateText": "26.04.2026",
-      "createdAt": "2026-04-26T18:02:25.8414812Z",
-      "updatedAt": "2026-04-26T18:02:25.8414815Z",
       "isPinned": false,
       "isVisible": true
     }
@@ -91,7 +69,7 @@
     "isOnline": true,
     "statusText": "Sunucular Cevrimd\u0131\u015F\u0131",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-26T18:06:59.1972751Z"
+    "updatedAt": "2026-04-26T18:07:26.8149549Z"
   },
   "supporters": []
 }
