@@ -1,16 +1,18 @@
-{
-  "modId": "league-hard-rp",
-  "displayName": "League Hard RP",
-  "version": "0.1.0",
-  "installMode": "GameRootPatch",
-  "targetJarName": "AgeOfHistory3.jar",
-  "packageUrl": "https://example.com/league-hard-rp-0.1.0.zip",
-  "packageSha256": "",
-  "packageSizeBytes": 0,
-  "installFolderName": "LeagueHardRP",
-  "mainFolderInZip": "",
-  "updatedAt": "2026-04-26T12:00:00Z",
-  "files": [],
-  "notes": "Ilk test manifesti.",
-  "isRequired": true
+﻿{
+    "modId":  "league-hard-rp",
+    "displayName":  "League Hard RP",
+    "version":  "0.1.0",
+    "installMode":  "GameRootPatch",
+    "targetJarName":  "multi_occupation_gift_fix_20260426.jar",
+    "packageUrl":  "https://github.com/AlperenCanY/aoh3-launcher-content/raw/main/packages/league-hard-rp-0.1.0.zip",
+    "packageSha256":  "EA6A48A0DF218B20CD1CCA51EE5EAAC4A4A78A9C472131E121AB968E2B7EAB13",
+    "packageSizeBytes":  20941506,
+    "installFolderName":  "LeagueHardRP",
+    "mainFolderInZip":  "",
+    "updatedAt":  "2026-04-26T19:44:32.0952237Z",
+    "files":  [
+
+              ],
+    "notes":  "Test paketi. Secili oyun JAR dosyasinin kopyasi ve test metinleri icerir.",
+    "isRequired":  true
 }
