@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updatedAt": "2026-04-26T15:03:58.6472752Z",
+  "updatedAt": "2026-04-26T15:38:36.4691593Z",
   "campaign": {
     "title": "BUYUK IMPARATORLUKLAR",
     "subtitle": "One Cikan Kampanya",
@@ -13,12 +13,12 @@
   "news": [
     {
       "id": "00000000-0000-0000-0000-000000000001",
-      "title": "League Mod 0.1",
-      "summary": "Modumuz \u00C7\u0131k\u0131\u015F\u0131n\u0131 Yapt\u0131",
-      "content": "Modumuz \u00C7\u0131k\u0131\u015F\u0131n\u0131 Yapt\u0131",
+      "title": "League Mod 0.2",
+      "summary": "Requzese Aptal Oc",
+      "content": "Requzese Aptal Oc",
       "dateText": "26.04.2026",
       "createdAt": "2026-04-26T12:00:00Z",
-      "updatedAt": "2026-04-26T14:58:23.9476119Z",
+      "updatedAt": "2026-04-26T15:38:33.0956181Z",
       "isPinned": true,
       "isVisible": true
     }
@@ -46,7 +46,7 @@
     "isOnline": false,
     "statusText": "Sunucular Cevrimd\u0131\u015F\u0131",
     "detailText": "Launcher icerikleri basariyla guncellendi.",
-    "updatedAt": "2026-04-26T15:03:58.64641Z"
+    "updatedAt": "2026-04-26T15:38:36.4683852Z"
   },
   "supporters": []
 }
