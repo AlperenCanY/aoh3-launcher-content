@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-26T16:33:19.3977573Z",
+  "updatedAt": "2026-04-26T16:34:02.5773839Z",
   "campaign": {
     "title": "League 1.0",
     "subtitle": "Yeni G\u00FCncelleme !!!",
@@ -32,6 +32,17 @@
       "updatedAt": "2026-04-26T16:28:35.1563136Z",
       "isPinned": false,
       "isVisible": true
+    },
+    {
+      "id": "d5c479ad-e49d-4289-8c00-489f6d705e2e",
+      "title": "Requzese\u0027nin G\u00F6t\u00FC Patlad\u0131",
+      "summary": "Valla Bum Diye Patlad\u0131",
+      "content": "Biz de \u015Fa\u015Fk\u0131n\u0131z",
+      "dateText": "26.04.2026",
+      "createdAt": "2026-04-26T16:33:58.4569084Z",
+      "updatedAt": "2026-04-26T16:34:02.576107Z",
+      "isPinned": false,
+      "isVisible": true
     }
   ],
   "patchNotes": [
@@ -57,7 +68,7 @@
     "isOnline": true,
     "statusText": "Sunucular Cevrimd\u0131\u015F\u0131",
     "detailText": "Sunucular S\u00FCresiz De-Aktif",
-    "updatedAt": "2026-04-26T16:33:19.3970831Z"
+    "updatedAt": "2026-04-26T16:34:02.5761015Z"
   },
   "supporters": []
 }
