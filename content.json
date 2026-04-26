@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-26T18:01:22.8068228Z",
+  "updatedAt": "2026-04-26T18:02:32.0378519Z",
   "backgroundImageUrl": "",
   "campaign": {
     "title": "League 1.0",
@@ -19,7 +19,7 @@
       "content": "Modumuz Bug\u00FCn \u0130tibariyle \u00C7\u0131k\u0131\u015F\u0131n\u0131 Ger\u00E7ekle\u015Ftirdi.",
       "dateText": "26.04.2026",
       "createdAt": "2026-04-26T12:00:00Z",
-      "updatedAt": "2026-04-26T18:01:22.8055266Z",
+      "updatedAt": "2026-04-26T18:02:32.0363866Z",
       "isPinned": true,
       "isVisible": true
     },
@@ -55,6 +55,17 @@
       "updatedAt": "2026-04-26T18:01:20.7662312Z",
       "isPinned": false,
       "isVisible": true
+    },
+    {
+      "id": "8bfcc74b-32dc-4fb9-ab85-1d203c970de7",
+      "title": "Revele\u0027yi Fena \u00D6pm\u00FC\u015Fler",
+      "summary": "Fahi\u015Fe olmu\u015F genelevlerde",
+      "content": "G\u00FCnl\u00FC\u011F\u00FC 5 tl",
+      "dateText": "26.04.2026",
+      "createdAt": "2026-04-26T18:02:25.8414812Z",
+      "updatedAt": "2026-04-26T18:02:25.8414815Z",
+      "isPinned": false,
+      "isVisible": true
     }
   ],
   "patchNotes": [
@@ -80,7 +91,7 @@
     "isOnline": true,
     "statusText": "Sunucular Cevrimd\u0131\u015F\u0131",
     "detailText": "Sunucular S\u00FCresiz De-Aktif",
-    "updatedAt": "2026-04-26T18:01:22.8055204Z"
+    "updatedAt": "2026-04-26T18:02:32.0363809Z"
   },
   "supporters": []
 }
