@@ -1,11 +1,11 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-26T18:07:27.4257728Z",
+  "updatedAt": "2026-04-26T18:07:57.3019705Z",
   "backgroundImageUrl": "",
   "campaign": {
-    "title": "League 1.0",
+    "title": "League 1.1",
     "subtitle": "Yeni G\u00FCncelleme !!!",
-    "description": "- Yeni Gemiler , Yeni Yolculuklar demektir !\r\n- Petrol ile ticaret yap \u00FClkeni zengin et topra\u011F\u0131n\u0131 geni\u015Flet",
+    "description": "- Revele\u0027ye D\u00F6v\u00FCld\u00FC\r\n- Petrol ile ticaret yap \u00FClkeni zengin et topra\u011F\u0131n\u0131 geni\u015Flet",
     "buttonText": "Detayi Ac",
     "buttonUrl": "Mod \u00C7\u0131kt\u0131",
     "imageUrl": "",
@@ -19,7 +19,7 @@
       "content": "Modumuz Bug\u00FCn \u0130tibariyle \u00C7\u0131k\u0131\u015F\u0131n\u0131 Ger\u00E7ekle\u015Ftirdi.",
       "dateText": "26.04.2026",
       "createdAt": "2026-04-26T12:00:00Z",
-      "updatedAt": "2026-04-26T18:07:27.4251305Z",
+      "updatedAt": "2026-04-26T18:07:57.3012632Z",
       "isPinned": true,
       "isVisible": true
     },
@@ -69,7 +69,7 @@
     "isOnline": true,
     "statusText": "Sunucular Cevrimd\u0131\u015F\u0131",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-26T18:07:27.4251258Z"
+    "updatedAt": "2026-04-26T18:07:57.3012578Z"
   },
   "supporters": []
 }
