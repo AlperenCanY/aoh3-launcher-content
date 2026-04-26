@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-26T16:33:11.6792687Z",
+  "updatedAt": "2026-04-26T16:33:14.323418Z",
   "campaign": {
     "title": "League 1.0",
     "subtitle": "Yeni G\u00FCncelleme !!!",
@@ -18,7 +18,7 @@
       "content": "Modumuz Bug\u00FCn \u0130tibariyle \u00C7\u0131k\u0131\u015F\u0131n\u0131 Ger\u00E7ekle\u015Ftirdi.",
       "dateText": "26.04.2026",
       "createdAt": "2026-04-26T12:00:00Z",
-      "updatedAt": "2026-04-26T16:33:11.6778787Z",
+      "updatedAt": "2026-04-26T16:33:14.3227772Z",
       "isPinned": true,
       "isVisible": true
     },
@@ -57,7 +57,7 @@
     "isOnline": true,
     "statusText": "Sunucular Cevrimd\u0131\u015F\u0131",
     "detailText": "Sunucular S\u00FCresiz De-Aktif",
-    "updatedAt": "2026-04-26T16:33:11.6778732Z"
+    "updatedAt": "2026-04-26T16:33:14.322772Z"
   },
   "supporters": []
 }
