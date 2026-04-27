@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-27T19:21:03.4246838Z",
+  "updatedAt": "2026-04-27T19:27:02.9790316Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "campaign": {
@@ -14,24 +14,24 @@
   },
   "news": [
     {
-      "id": "9ab75e98-c5a7-4c4a-a405-9760802633e2",
-      "title": "League Test 0.12",
-      "summary": "League Test 0.12",
-      "content": "League Test 0.12",
-      "dateText": "27.04.2026",
-      "createdAt": "2026-04-27T19:09:44.4571981Z",
-      "updatedAt": "2026-04-27T19:21:03.4194805Z",
-      "isPinned": true,
-      "isVisible": true
-    },
-    {
       "id": "62379855-0616-49d3-b190-ed06283f4b93",
       "title": "League Test 0.1League Test 0.1League Test 0.1",
       "summary": "League Test 0.1League Test 0.1",
       "content": "League Test 0.1League Test 0.1League Test 0.1",
       "dateText": "27.04.2026",
       "createdAt": "2026-04-27T19:18:11.2799886Z",
-      "updatedAt": "2026-04-27T19:18:11.2799889Z",
+      "updatedAt": "2026-04-27T19:27:02.9736964Z",
+      "isPinned": false,
+      "isVisible": true
+    },
+    {
+      "id": "7f84a172-dcfc-4494-8b87-2eb58e589c41",
+      "title": "League Test 0.1213231",
+      "summary": "League Test 0.112312",
+      "content": "League Test 0.1123123",
+      "dateText": "27.04.2026",
+      "createdAt": "2026-04-27T19:27:00.2633942Z",
+      "updatedAt": "2026-04-27T19:27:00.2633947Z",
       "isPinned": false,
       "isVisible": true
     }
@@ -59,7 +59,7 @@
     "isOnline": true,
     "statusText": "Naber M\u00FCd\u00FCr",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-27T19:21:03.4194742Z"
+    "updatedAt": "2026-04-27T19:27:02.973691Z"
   },
   "supporters": []
 }
