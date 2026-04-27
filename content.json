@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-27T19:00:26.4826395Z",
+  "updatedAt": "2026-04-27T19:09:48.2723237Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "campaign": {
@@ -14,47 +14,25 @@
   },
   "news": [
     {
-      "id": "00000000-0000-0000-0000-000000000001",
-      "title": "Murat Mal Oc",
-      "summary": "Modumuz \u00C7\u0131kt\u0131lar Yan\u0131yolar",
-      "content": "Modumuz Bug\u00FCn \u0130tibariyle \u00C7\u0131k\u0131\u015F\u0131n\u0131 Ger\u00E7ekle\u015Ftirdi.",
-      "dateText": "26.04.2026",
-      "createdAt": "2026-04-26T12:00:00Z",
-      "updatedAt": "2026-04-27T19:00:26.4770344Z",
-      "isPinned": true,
-      "isVisible": true
-    },
-    {
-      "id": "1faab78a-ba62-4d26-835f-92666b112cfb",
-      "title": "League Fix Patch 0.01.02",
-      "summary": "Bug Fixes",
-      "content": "- Minor Bug Fixes",
-      "dateText": "26.04.2026",
-      "createdAt": "2026-04-26T16:28:31.4294796Z",
-      "updatedAt": "2026-04-26T16:28:35.1563136Z",
-      "isPinned": false,
-      "isVisible": true
-    },
-    {
-      "id": "d5c479ad-e49d-4289-8c00-489f6d705e2e",
-      "title": "Requzese\u0027nin G\u00F6t\u00FC Patlad\u0131",
-      "summary": "Valla Bum Diye Patlad\u0131",
-      "content": "Biz de \u015Fa\u015Fk\u0131n\u0131z",
-      "dateText": "26.04.2026",
-      "createdAt": "2026-04-26T16:33:58.4569084Z",
-      "updatedAt": "2026-04-26T16:34:02.576107Z",
-      "isPinned": false,
-      "isVisible": true
-    },
-    {
-      "id": "c17e3531-dc91-4e65-918f-4342b6b69992",
-      "title": "Murat",
-      "summary": "1",
-      "content": "1",
+      "id": "2fe371d4-3ee5-4735-870b-01d7b04f1b71",
+      "title": "League Test 0.1",
+      "summary": "01 Test",
+      "content": "01 Test",
       "dateText": "27.04.2026",
-      "createdAt": "2026-04-26T21:30:48.3085458Z",
-      "updatedAt": "2026-04-26T21:30:51.0000999Z",
+      "createdAt": "2026-04-27T19:09:40.3885185Z",
+      "updatedAt": "2026-04-27T19:09:48.267436Z",
       "isPinned": false,
+      "isVisible": true
+    },
+    {
+      "id": "9ab75e98-c5a7-4c4a-a405-9760802633e2",
+      "title": "League Test 0.12",
+      "summary": "League Test 0.12",
+      "content": "League Test 0.12",
+      "dateText": "27.04.2026",
+      "createdAt": "2026-04-27T19:09:44.4571981Z",
+      "updatedAt": "2026-04-27T19:09:46.6553514Z",
+      "isPinned": true,
       "isVisible": true
     }
   ],
@@ -81,7 +59,7 @@
     "isOnline": true,
     "statusText": "Naber M\u00FCd\u00FCr",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-27T19:00:26.4765687Z"
+    "updatedAt": "2026-04-27T19:09:48.2674298Z"
   },
   "supporters": []
 }
