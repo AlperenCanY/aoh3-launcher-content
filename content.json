@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-27T12:45:44.5120239Z",
+  "updatedAt": "2026-04-27T12:45:47.1557144Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "campaign": {
@@ -20,7 +20,7 @@
       "content": "Modumuz Bug\u00FCn \u0130tibariyle \u00C7\u0131k\u0131\u015F\u0131n\u0131 Ger\u00E7ekle\u015Ftirdi.",
       "dateText": "26.04.2026",
       "createdAt": "2026-04-26T12:00:00Z",
-      "updatedAt": "2026-04-27T12:45:44.511508Z",
+      "updatedAt": "2026-04-27T12:45:47.1550441Z",
       "isPinned": true,
       "isVisible": true
     },
@@ -81,7 +81,7 @@
     "isOnline": true,
     "statusText": "Sunucular Cevrimd\u0131\u015F\u0131",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-27T12:45:44.511008Z"
+    "updatedAt": "2026-04-27T12:45:47.1550383Z"
   },
   "supporters": []
 }
