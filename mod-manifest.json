@@ -1,35 +1,20 @@
 {
   "modId": "league-hard-rp",
   "displayName": "League Hard RP",
-  "version": "0.0.4B",
+  "version": "0.0.1B",
   "installMode": "GameRootPatch",
   "targetJarName": "multi_diplomacy_fixed.jar",
-  "packageUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/packages/modv1.zip",
-  "packageSha256": "D083D8D20BBBF5B092AFDCE0F32DBE9ED98992BC6AF86E1EBC038800F477DE3D",
-  "packageSizeBytes": 21034470,
+  "packageUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/packages/modv2.zip",
+  "packageSha256": "120A1D2B48289978E53F7298A88A1B35A1F9A4F7DE98B24F1B338F7BA1873B94",
+  "packageSizeBytes": 20965373,
   "installFolderName": "LeagueHardRP",
   "mainFolderInZip": "",
-  "updatedAt": "2026-04-27T12:45:31.6104349Z",
+  "updatedAt": "2026-04-27T12:52:35.495934Z",
   "files": [
     {
-      "relativePath": "multi_diplomacy_fixed.jar",
+      "relativePath": "multi_diplomacy_fixed1.jar",
       "sha256": "95F99F38BAD24E77EAE873EF0926124FE9952F1A2BAA62531D83C9C96AE0E0D7",
       "sizeBytes": 22460097
-    },
-    {
-      "relativePath": "ui/league/cagirma.png",
-      "sha256": "DBAD7A0B80ACA5FB3AFE4281A1D88F4CBF8275943BC9362ADEAB696BA2E2D930",
-      "sizeBytes": 1071
-    },
-    {
-      "relativePath": "ui/league/gorusme.ogg",
-      "sha256": "40B002A7D2841BD2E5801BA8857B2D3B237BDA535E6C43F01B7B06F6A9B5E29D",
-      "sizeBytes": 66652
-    },
-    {
-      "relativePath": "ui/league/gorusme.png",
-      "sha256": "77571EEF7E3C006AF7E07D5535C2D2DC304EEB5D405C5132AC738653F8F7B3F9",
-      "sizeBytes": 5038
     }
   ],
   "notes": "",
