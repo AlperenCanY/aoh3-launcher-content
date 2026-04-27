@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-27T19:38:10.0941134Z",
+  "updatedAt": "2026-04-27T19:38:34.5581996Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "campaign": {
@@ -14,24 +14,35 @@
   },
   "news": [
     {
-      "id": "62379855-0616-49d3-b190-ed06283f4b93",
-      "title": "League Test 0.1League Test 0.1League Test 0.1",
-      "summary": "League Test 0.1League Test 0.1",
-      "content": "League Test 0.1League Test 0.1League Test 0.1",
-      "dateText": "27.04.2026",
-      "createdAt": "2026-04-27T19:18:11.2799886Z",
-      "updatedAt": "2026-04-27T19:38:10.0888593Z",
-      "isPinned": false,
-      "isVisible": true
-    },
-    {
       "id": "7f84a172-dcfc-4494-8b87-2eb58e589c41",
       "title": "League Test 0.1213231",
       "summary": "League Test 0.112312",
       "content": "League Test 0.1123123",
       "dateText": "27.04.2026",
       "createdAt": "2026-04-27T19:27:00.2633942Z",
-      "updatedAt": "2026-04-27T19:27:00.2633947Z",
+      "updatedAt": "2026-04-27T19:38:34.552912Z",
+      "isPinned": false,
+      "isVisible": true
+    },
+    {
+      "id": "50d33302-95f2-4d04-9deb-8102b1cca1b0",
+      "title": "123123",
+      "summary": "13213123",
+      "content": "12312312",
+      "dateText": "27.04.2026",
+      "createdAt": "2026-04-27T19:32:37.6967998Z",
+      "updatedAt": "2026-04-27T19:32:40.8124268Z",
+      "isPinned": false,
+      "isVisible": true
+    },
+    {
+      "id": "6016e4ba-a6b6-4836-bf36-2e4aaf7b82f2",
+      "title": "63564536",
+      "summary": "456456456",
+      "content": "45645645",
+      "dateText": "27.04.2026",
+      "createdAt": "2026-04-27T19:38:32.0613793Z",
+      "updatedAt": "2026-04-27T19:38:32.0613797Z",
       "isPinned": false,
       "isVisible": true
     }
@@ -59,7 +70,7 @@
     "isOnline": true,
     "statusText": "Naber M\u00FCd\u00FCr",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-27T19:38:10.0888546Z"
+    "updatedAt": "2026-04-27T19:38:34.5529068Z"
   },
   "supporters": []
 }
