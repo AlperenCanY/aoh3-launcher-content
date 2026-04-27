@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-27T19:09:48.2723237Z",
+  "updatedAt": "2026-04-27T19:09:59.0278718Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "campaign": {
@@ -20,7 +20,7 @@
       "content": "01 Test",
       "dateText": "27.04.2026",
       "createdAt": "2026-04-27T19:09:40.3885185Z",
-      "updatedAt": "2026-04-27T19:09:48.267436Z",
+      "updatedAt": "2026-04-27T19:09:59.0271863Z",
       "isPinned": false,
       "isVisible": true
     },
@@ -59,7 +59,7 @@
     "isOnline": true,
     "statusText": "Naber M\u00FCd\u00FCr",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-27T19:09:48.2674298Z"
+    "updatedAt": "2026-04-27T19:09:59.0271809Z"
   },
   "supporters": []
 }
