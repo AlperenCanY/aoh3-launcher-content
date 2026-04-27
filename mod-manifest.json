@@ -1,20 +1,20 @@
 {
   "modId": "league-hard-rp",
   "displayName": "League Hard RP",
-  "version": "0.1.0",
+  "version": "0.0.5B",
   "installMode": "GameRootPatch",
-  "targetJarName": "multi_save_feature_fix4c_20260426",
-  "packageUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/packages/modv3.zip",
-  "packageSha256": "8F2811C54153F5458FF4D8C3F16DA6676C5F8A66DFBD92F6749E95B54A9D3904",
-  "packageSizeBytes": 20939864,
+  "targetJarName": "multi_save_feature_fix5_20260427.jar",
+  "packageUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/packages/modv5.zip",
+  "packageSha256": "299DF5B348EA61305C7FF247CDBD282E0C7751782BE5906754BC8F8AB29F2BFC",
+  "packageSizeBytes": 20940100,
   "installFolderName": "LeagueHardRP",
   "mainFolderInZip": "",
-  "updatedAt": "2026-04-27T14:04:31.0999195Z",
+  "updatedAt": "2026-04-27T14:16:51.3413959Z",
   "files": [
     {
-      "relativePath": "multi_save_feature_fix4c_20260426.jar",
-      "sha256": "1582CA5F089720695F20C7B816287FBCEF8431E878F55606B653CE93B026B7E1",
-      "sizeBytes": 22435575
+      "relativePath": "multi_save_feature_fix5_20260427.jar",
+      "sha256": "5A58DC6E3DA8FAECC71B081E83303923EA8A989A4ABB2C1C33EA9243E6145B9A",
+      "sizeBytes": 22435870
     }
   ],
   "notes": "",
