@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-27T19:58:36.1848388Z",
+  "updatedAt": "2026-04-27T20:03:19.689036Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "campaign": {
@@ -14,24 +14,13 @@
   },
   "news": [
     {
-      "id": "38372583-3d8b-4f3e-9ee3-ae8558939360",
-      "title": "League Test 0.0.1B",
-      "summary": "League Test 0.0.1B",
-      "content": "League Test 0.0.1B",
-      "dateText": "27.04.2026",
-      "createdAt": "2026-04-27T19:51:28.2374518Z",
-      "updatedAt": "2026-04-27T19:58:36.1839178Z",
-      "isPinned": false,
-      "isVisible": true
-    },
-    {
       "id": "6bcbf417-1219-4a22-adf5-a9d12282c134",
       "title": "sadasd",
       "summary": "aasdasd",
       "content": "asdasdasd",
       "dateText": "27.04.2026",
       "createdAt": "2026-04-27T19:58:34.974562Z",
-      "updatedAt": "2026-04-27T19:58:34.9745623Z",
+      "updatedAt": "2026-04-27T20:03:19.6834541Z",
       "isPinned": false,
       "isVisible": true
     }
@@ -59,7 +48,7 @@
     "isOnline": true,
     "statusText": "Naber M\u00FCd\u00FCr",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-27T19:58:36.1839128Z"
+    "updatedAt": "2026-04-27T20:03:19.6834467Z"
   },
   "supporters": []
 }
