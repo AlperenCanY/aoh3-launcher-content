@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-27T20:48:17.8719621Z",
+  "updatedAt": "2026-04-27T21:12:31.2070048Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "campaign": {
@@ -34,6 +34,17 @@
       "updatedAt": "2026-04-27T20:48:17.8710381Z",
       "isPinned": false,
       "isVisible": true
+    },
+    {
+      "id": "bc0d1071-b8b1-486b-a019-9d155c5cd65d",
+      "title": "Murat 1",
+      "summary": "1 Murat",
+      "content": "HAHAHA KANDIRDIM 2 MURAT",
+      "dateText": "28.04.2026",
+      "createdAt": "2026-04-27T21:12:27.2649972Z",
+      "updatedAt": "2026-04-27T21:12:31.2016316Z",
+      "isPinned": true,
+      "isVisible": true
     }
   ],
   "patchNotes": [
@@ -59,7 +70,7 @@
     "isOnline": true,
     "statusText": "Naber M\u00FCd\u00FCr",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-27T20:48:17.8710303Z"
+    "updatedAt": "2026-04-27T21:12:31.2016216Z"
   },
   "supporters": []
 }
