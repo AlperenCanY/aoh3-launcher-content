@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-27T19:27:02.9790316Z",
+  "updatedAt": "2026-04-27T19:32:31.0960872Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "campaign": {
@@ -20,7 +20,7 @@
       "content": "League Test 0.1League Test 0.1League Test 0.1",
       "dateText": "27.04.2026",
       "createdAt": "2026-04-27T19:18:11.2799886Z",
-      "updatedAt": "2026-04-27T19:27:02.9736964Z",
+      "updatedAt": "2026-04-27T19:32:31.0906381Z",
       "isPinned": false,
       "isVisible": true
     },
@@ -59,7 +59,7 @@
     "isOnline": true,
     "statusText": "Naber M\u00FCd\u00FCr",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-27T19:27:02.973691Z"
+    "updatedAt": "2026-04-27T19:32:31.0906328Z"
   },
   "supporters": []
 }
