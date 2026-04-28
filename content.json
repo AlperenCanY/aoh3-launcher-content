@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-28T18:26:35.6712422Z",
+  "updatedAt": "2026-04-28T20:05:42.5190854Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "accessPolicy": {
@@ -33,7 +33,7 @@
       "dateText": "28.04.2026",
       "category": "Patch",
       "createdAt": "2026-04-28T17:54:29.3856078Z",
-      "updatedAt": "2026-04-28T18:19:54.5974412Z",
+      "updatedAt": "2026-04-28T20:05:42.5171706Z",
       "isPinned": false,
       "isVisible": true
     },
@@ -85,7 +85,7 @@
     "isOnline": false,
     "statusText": "Sunucular Aktif",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-28T18:26:35.6703818Z"
+    "updatedAt": "2026-04-28T20:05:42.5166715Z"
   },
   "supporters": []
 }
