@@ -1,10 +1,10 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-28T17:54:35.847251Z",
+  "updatedAt": "2026-04-28T18:19:54.6027047Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "accessPolicy": {
-    "maintenanceModeEnabled": false,
+    "maintenanceModeEnabled": true,
     "maintenanceTitle": "Bakim Modu",
     "maintenanceMessage": "League servisleri kisa sureli bakimda.",
     "disablePlayDuringMaintenance": true,
@@ -26,18 +26,6 @@
   },
   "news": [
     {
-      "id": "bd626512-1694-454f-b1ea-9c3905632ab9",
-      "title": "1",
-      "summary": "1",
-      "content": "1",
-      "dateText": "28.04.2026",
-      "category": "Duyuru",
-      "createdAt": "2026-04-28T17:54:26.0891719Z",
-      "updatedAt": "2026-04-28T17:54:26.0891722Z",
-      "isPinned": false,
-      "isVisible": true
-    },
-    {
       "id": "171666de-b8b5-40da-95d0-9c4dd7806c39",
       "title": "2",
       "summary": "2",
@@ -45,7 +33,7 @@
       "dateText": "28.04.2026",
       "category": "Patch",
       "createdAt": "2026-04-28T17:54:29.3856078Z",
-      "updatedAt": "2026-04-28T17:54:29.385608Z",
+      "updatedAt": "2026-04-28T18:19:54.5974412Z",
       "isPinned": false,
       "isVisible": true
     },
@@ -85,7 +73,7 @@
     "isOnline": false,
     "statusText": "Sunucular Aktif",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-28T17:54:35.8456737Z"
+    "updatedAt": "2026-04-28T18:19:54.5969785Z"
   },
   "supporters": []
 }
