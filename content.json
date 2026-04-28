@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-28T17:45:42.8672505Z",
+  "updatedAt": "2026-04-28T17:46:49.6917388Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "accessPolicy": {
@@ -33,7 +33,7 @@
       "dateText": "28.04.2026",
       "category": "Duyuru",
       "createdAt": "2026-04-28T14:40:53.0564341Z",
-      "updatedAt": "2026-04-28T17:45:42.8617613Z",
+      "updatedAt": "2026-04-28T17:46:49.6915735Z",
       "isPinned": false,
       "isVisible": true
     },
@@ -85,7 +85,7 @@
     "isOnline": true,
     "statusText": "Naber M\u00FCd\u00FCr",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-28T17:45:42.8612461Z"
+    "updatedAt": "2026-04-28T17:46:49.6915627Z"
   },
   "supporters": []
 }
