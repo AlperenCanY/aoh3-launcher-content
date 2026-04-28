@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-28T17:48:17.2226159Z",
+  "updatedAt": "2026-04-28T17:54:35.847251Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "accessPolicy": {
@@ -24,7 +24,44 @@
     "imageUrl": "",
     "isVisible": true
   },
-  "news": [],
+  "news": [
+    {
+      "id": "bd626512-1694-454f-b1ea-9c3905632ab9",
+      "title": "1",
+      "summary": "1",
+      "content": "1",
+      "dateText": "28.04.2026",
+      "category": "Duyuru",
+      "createdAt": "2026-04-28T17:54:26.0891719Z",
+      "updatedAt": "2026-04-28T17:54:26.0891722Z",
+      "isPinned": false,
+      "isVisible": true
+    },
+    {
+      "id": "171666de-b8b5-40da-95d0-9c4dd7806c39",
+      "title": "2",
+      "summary": "2",
+      "content": "2",
+      "dateText": "28.04.2026",
+      "category": "Patch",
+      "createdAt": "2026-04-28T17:54:29.3856078Z",
+      "updatedAt": "2026-04-28T17:54:29.385608Z",
+      "isPinned": false,
+      "isVisible": true
+    },
+    {
+      "id": "b0e45dc8-3062-4cf0-8b61-1480c57fca8c",
+      "title": "3",
+      "summary": "3",
+      "content": "3",
+      "dateText": "28.04.2026",
+      "category": "Etkinlik",
+      "createdAt": "2026-04-28T17:54:33.9456352Z",
+      "updatedAt": "2026-04-28T17:54:35.8456844Z",
+      "isPinned": false,
+      "isVisible": true
+    }
+  ],
   "patchNotes": [
     {
       "version": "0.1",
@@ -48,7 +85,7 @@
     "isOnline": false,
     "statusText": "Sunucular Aktif",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-28T17:48:17.221954Z"
+    "updatedAt": "2026-04-28T17:54:35.8456737Z"
   },
   "supporters": []
 }
