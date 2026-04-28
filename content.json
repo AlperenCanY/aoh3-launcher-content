@@ -1,8 +1,20 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-28T14:42:00.8086348Z",
+  "updatedAt": "2026-04-28T15:27:56.5725317Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
+  "accessPolicy": {
+    "maintenanceModeEnabled": true,
+    "maintenanceTitle": "Bakim Modu",
+    "maintenanceMessage": "League servisleri kisa sureli bakimda.",
+    "disablePlayDuringMaintenance": true,
+    "forceLauncherUpdate": false,
+    "minimumLauncherVersion": "",
+    "forceLauncherUpdateMessage": "Devam etmek icin launcher guncellemesi gerekli.",
+    "forceModUpdate": false,
+    "minimumModVersion": "",
+    "forceModUpdateMessage": "Devam etmek icin League mod guncellemesi gerekli."
+  },
   "campaign": {
     "title": "League Testing 0.12",
     "subtitle": "Testing",
@@ -19,6 +31,7 @@
       "summary": "0.1 An \u0130tibariyle \u00C7\u0131k\u0131\u015F Yapt\u0131",
       "content": "\u00C7\u0131kt\u0131 !",
       "dateText": "28.04.2026",
+      "category": "Duyuru",
       "createdAt": "2026-04-28T14:40:53.0564341Z",
       "updatedAt": "2026-04-28T14:42:00.8077583Z",
       "isPinned": false,
@@ -48,7 +61,7 @@
     "isOnline": true,
     "statusText": "Naber M\u00FCd\u00FCr",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-28T14:42:00.8077482Z"
+    "updatedAt": "2026-04-28T15:27:56.5665497Z"
   },
   "supporters": []
 }
