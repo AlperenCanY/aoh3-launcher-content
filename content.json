@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-28T17:47:23.0229953Z",
+  "updatedAt": "2026-04-28T17:47:52.9467169Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "accessPolicy": {
@@ -24,44 +24,7 @@
     "imageUrl": "",
     "isVisible": true
   },
-  "news": [
-    {
-      "id": "ef9e7a23-0b0a-4f5d-bed0-2af8449495e8",
-      "title": "League 0.1",
-      "summary": "0.1 An \u0130tibariyle \u00C7\u0131k\u0131\u015F Yapt\u0131",
-      "content": "\u00C7\u0131kt\u0131 !",
-      "dateText": "28.04.2026",
-      "category": "Duyuru",
-      "createdAt": "2026-04-28T14:40:53.0564341Z",
-      "updatedAt": "2026-04-28T17:47:23.0222396Z",
-      "isPinned": false,
-      "isVisible": true
-    },
-    {
-      "id": "f35c8cb3-bf52-4a10-968c-d76b26be90e2",
-      "title": "2",
-      "summary": "2",
-      "content": "2",
-      "dateText": "28.04.2026",
-      "category": "Duyuru",
-      "createdAt": "2026-04-28T16:02:37.5202751Z",
-      "updatedAt": "2026-04-28T16:02:38.6289831Z",
-      "isPinned": false,
-      "isVisible": true
-    },
-    {
-      "id": "b6e4870c-cbf9-4ee4-b07e-1f8d2a62c6c2",
-      "title": "1",
-      "summary": "1",
-      "content": "1",
-      "dateText": "28.04.2026",
-      "category": "Patch",
-      "createdAt": "2026-04-28T16:02:52.8741267Z",
-      "updatedAt": "2026-04-28T16:02:54.7535013Z",
-      "isPinned": false,
-      "isVisible": true
-    }
-  ],
+  "news": [],
   "patchNotes": [
     {
       "version": "0.1",
@@ -85,7 +48,7 @@
     "isOnline": true,
     "statusText": "Naber M\u00FCd\u00FCr",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-28T17:47:23.022232Z"
+    "updatedAt": "2026-04-28T17:47:52.9458586Z"
   },
   "supporters": []
 }
