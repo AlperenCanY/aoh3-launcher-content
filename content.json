@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-28T21:06:37.578486Z",
+  "updatedAt": "2026-04-28T21:06:57.6427642Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "accessPolicy": {
@@ -24,7 +24,20 @@
     "imageUrl": "",
     "isVisible": true
   },
-  "news": [],
+  "news": [
+    {
+      "id": "9cba720b-9a82-4c8d-b9d1-884034990bc7",
+      "title": "f",
+      "summary": "f",
+      "content": "f",
+      "dateText": "29.04.2026",
+      "category": "Duyuru",
+      "createdAt": "2026-04-28T21:06:56.6175147Z",
+      "updatedAt": "2026-04-28T21:06:57.6418927Z",
+      "isPinned": false,
+      "isVisible": true
+    }
+  ],
   "patchNotes": [
     {
       "version": "0.1",
@@ -48,7 +61,7 @@
     "isOnline": false,
     "statusText": "Sunucular Aktif",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-28T21:06:37.5776928Z"
+    "updatedAt": "2026-04-28T21:06:57.6418831Z"
   },
   "supporters": []
 }
