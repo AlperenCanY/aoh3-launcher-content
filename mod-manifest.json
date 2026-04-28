@@ -1,20 +1,20 @@
 {
   "modId": "league-hard-rp",
   "displayName": "League Hard RP",
-  "version": "0.0.3B",
+  "version": "0.0.4b",
   "installMode": "GameRootPatch",
-  "targetJarName": "multi_save_feature_fix4c_20260426.jar",
-  "packageUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/packages/modv3.zip",
-  "packageSha256": "8F2811C54153F5458FF4D8C3F16DA6676C5F8A66DFBD92F6749E95B54A9D3904",
-  "packageSizeBytes": 20939864,
+  "targetJarName": "multi_diplomacy_fixed1.jar",
+  "packageUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/packages/modv2.zip",
+  "packageSha256": "120A1D2B48289978E53F7298A88A1B35A1F9A4F7DE98B24F1B338F7BA1873B94",
+  "packageSizeBytes": 20965373,
   "installFolderName": "LeagueHardRP",
   "mainFolderInZip": "",
-  "updatedAt": "2026-04-28T17:11:35.9965415Z",
+  "updatedAt": "2026-04-28T17:46:40.211162Z",
   "files": [
     {
-      "relativePath": "multi_save_feature_fix4c_20260426.jar",
-      "sha256": "1582CA5F089720695F20C7B816287FBCEF8431E878F55606B653CE93B026B7E1",
-      "sizeBytes": 22435575
+      "relativePath": "multi_diplomacy_fixed1.jar",
+      "sha256": "95F99F38BAD24E77EAE873EF0926124FE9952F1A2BAA62531D83C9C96AE0E0D7",
+      "sizeBytes": 22460097
     }
   ],
   "notes": "",
