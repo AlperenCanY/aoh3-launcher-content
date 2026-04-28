@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-28T14:40:54.678576Z",
+  "updatedAt": "2026-04-28T14:42:00.8086348Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "campaign": {
@@ -20,7 +20,7 @@
       "content": "\u00C7\u0131kt\u0131 !",
       "dateText": "28.04.2026",
       "createdAt": "2026-04-28T14:40:53.0564341Z",
-      "updatedAt": "2026-04-28T14:40:54.6777641Z",
+      "updatedAt": "2026-04-28T14:42:00.8077583Z",
       "isPinned": false,
       "isVisible": true
     }
@@ -39,16 +39,16 @@
   "communityLinks": {
     "discordUrl": "https://discord.gg/zUddpABV98",
     "forumUrl": "https://www.youtube.com/@League-multiplayer",
-    "steamHubUrl": "https://www.instagram.com/leaguemultiplayer?igsh=Z2JqamtlZjZveGN5",
+    "steamHubUrl": "https://www.patreon.com/home",
     "steamStoreUrl": "",
-    "websiteUrl": "",
+    "websiteUrl": "https://www.instagram.com/leaguemultiplayer?igsh=Z2JqamtlZjZveGN5",
     "donateUrl": "https://www.buymeacoffee.com"
   },
   "serverStatus": {
     "isOnline": true,
     "statusText": "Naber M\u00FCd\u00FCr",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-28T14:40:54.6777567Z"
+    "updatedAt": "2026-04-28T14:42:00.8077482Z"
   },
   "supporters": []
 }
