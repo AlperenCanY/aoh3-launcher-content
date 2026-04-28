@@ -1,20 +1,40 @@
 {
   "modId": "league-hard-rp",
   "displayName": "League Hard RP",
-  "version": "0.0.1B",
+  "version": "0.0.2B",
   "installMode": "GameRootPatch",
-  "targetJarName": "multi_sync_meeting_resources.jar",
-  "packageUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/packages/modv8.zip",
-  "packageSha256": "667ED720118224E657562FA6216F7A44FF3D481B8E0F7F8EF87107DB76AC065B",
-  "packageSizeBytes": 20953713,
+  "targetJarName": "multi_save_feature_fix5_20260427.jar",
+  "packageUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/packages/modv7.zip",
+  "packageSha256": "FF14CE10E3F1D07D5C8B95E034A7B1911B72534EC218E27CF7353AA2D3F5AF64",
+  "packageSizeBytes": 21010230,
   "installFolderName": "LeagueHardRP",
   "mainFolderInZip": "",
-  "updatedAt": "2026-04-28T15:40:25.7339948Z",
+  "updatedAt": "2026-04-28T15:54:25.8587369Z",
   "files": [
     {
-      "relativePath": "multi_sync_meeting_resources.jar",
-      "sha256": "67318884D7F73A0A2C4900C695650DB726323BF678C34F650D57081236CFF868",
-      "sizeBytes": 22448984
+      "relativePath": "multi_save_feature_fix5_20260427.jar",
+      "sha256": "5A58DC6E3DA8FAECC71B081E83303923EA8A989A4ABB2C1C33EA9243E6145B9A",
+      "sizeBytes": 22435870
+    },
+    {
+      "relativePath": "game/gameValues/GV_War.json",
+      "sha256": "EA14A31C5DE3FCDE73AA8437DD03F76EBE357F47233DAA323FBDDA506F7A3F44",
+      "sizeBytes": 1134
+    },
+    {
+      "relativePath": "ui/league/cagirma.png",
+      "sha256": "DBAD7A0B80ACA5FB3AFE4281A1D88F4CBF8275943BC9362ADEAB696BA2E2D930",
+      "sizeBytes": 1071
+    },
+    {
+      "relativePath": "ui/league/gorusme.ogg",
+      "sha256": "40B002A7D2841BD2E5801BA8857B2D3B237BDA535E6C43F01B7B06F6A9B5E29D",
+      "sizeBytes": 66652
+    },
+    {
+      "relativePath": "ui/league/gorusme.png",
+      "sha256": "77571EEF7E3C006AF7E07D5535C2D2DC304EEB5D405C5132AC738653F8F7B3F9",
+      "sizeBytes": 5038
     }
   ],
   "notes": "",
