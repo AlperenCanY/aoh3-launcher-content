@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-28T17:47:52.9467169Z",
+  "updatedAt": "2026-04-28T17:48:17.2226159Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "accessPolicy": {
@@ -45,10 +45,10 @@
     "donateUrl": "https://www.buymeacoffee.com"
   },
   "serverStatus": {
-    "isOnline": true,
-    "statusText": "Naber M\u00FCd\u00FCr",
+    "isOnline": false,
+    "statusText": "Sunucular Aktif",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-28T17:47:52.9458586Z"
+    "updatedAt": "2026-04-28T17:48:17.221954Z"
   },
   "supporters": []
 }
