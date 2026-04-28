@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-28T14:40:10.645298Z",
+  "updatedAt": "2026-04-28T14:40:54.678576Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "campaign": {
@@ -14,36 +14,14 @@
   },
   "news": [
     {
-      "id": "5271672f-d097-4dbc-8671-df801216a758",
-      "title": "qweqweqwqweqwe",
-      "summary": "qweqweqweqwqweqw",
-      "content": "qweqwewq",
-      "dateText": "27.04.2026",
-      "createdAt": "2026-04-27T20:48:10.3126135Z",
-      "updatedAt": "2026-04-28T14:40:10.6444264Z",
-      "isPinned": false,
-      "isVisible": true
-    },
-    {
-      "id": "fecd03e8-d8e8-4ef7-8b2f-905d150b083f",
-      "title": "asdasd",
-      "summary": "asdasd",
-      "content": "asdasd",
-      "dateText": "27.04.2026",
-      "createdAt": "2026-04-27T20:48:15.5130564Z",
-      "updatedAt": "2026-04-27T20:48:17.8710381Z",
-      "isPinned": false,
-      "isVisible": true
-    },
-    {
-      "id": "bc0d1071-b8b1-486b-a019-9d155c5cd65d",
-      "title": "Murat 1",
-      "summary": "1 Murat",
-      "content": "HAHAHA KANDIRDIM 2 MURAT",
+      "id": "ef9e7a23-0b0a-4f5d-bed0-2af8449495e8",
+      "title": "League 0.1",
+      "summary": "0.1 An \u0130tibariyle \u00C7\u0131k\u0131\u015F Yapt\u0131",
+      "content": "\u00C7\u0131kt\u0131 !",
       "dateText": "28.04.2026",
-      "createdAt": "2026-04-27T21:12:27.2649972Z",
-      "updatedAt": "2026-04-27T21:12:31.2016316Z",
-      "isPinned": true,
+      "createdAt": "2026-04-28T14:40:53.0564341Z",
+      "updatedAt": "2026-04-28T14:40:54.6777641Z",
+      "isPinned": false,
       "isVisible": true
     }
   ],
@@ -70,7 +48,7 @@
     "isOnline": true,
     "statusText": "Naber M\u00FCd\u00FCr",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-28T14:40:10.6444189Z"
+    "updatedAt": "2026-04-28T14:40:54.6777567Z"
   },
   "supporters": []
 }
