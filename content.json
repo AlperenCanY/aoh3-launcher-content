@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-28T21:06:12.0203205Z",
+  "updatedAt": "2026-04-28T21:06:37.578486Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "accessPolicy": {
@@ -24,56 +24,7 @@
     "imageUrl": "",
     "isVisible": true
   },
-  "news": [
-    {
-      "id": "171666de-b8b5-40da-95d0-9c4dd7806c39",
-      "title": "2",
-      "summary": "2",
-      "content": "2",
-      "dateText": "28.04.2026",
-      "category": "Patch",
-      "createdAt": "2026-04-28T17:54:29.3856078Z",
-      "updatedAt": "2026-04-28T20:05:42.5171706Z",
-      "isPinned": false,
-      "isVisible": true
-    },
-    {
-      "id": "b0e45dc8-3062-4cf0-8b61-1480c57fca8c",
-      "title": "3",
-      "summary": "3",
-      "content": "3",
-      "dateText": "28.04.2026",
-      "category": "Etkinlik",
-      "createdAt": "2026-04-28T17:54:33.9456352Z",
-      "updatedAt": "2026-04-28T17:54:35.8456844Z",
-      "isPinned": false,
-      "isVisible": true
-    },
-    {
-      "id": "215f65f7-ee3e-479e-ae93-5a9f3695ed22",
-      "title": "445",
-      "summary": "44",
-      "content": "444",
-      "dateText": "28.04.2026",
-      "category": "Duyuru",
-      "createdAt": "2026-04-28T18:20:22.9958485Z",
-      "updatedAt": "2026-04-28T18:26:35.670396Z",
-      "isPinned": false,
-      "isVisible": true
-    },
-    {
-      "id": "2ddaf0f3-bd1e-43ef-8e34-36ec2b239d29",
-      "title": "232",
-      "summary": "5125",
-      "content": "52512",
-      "dateText": "29.04.2026",
-      "category": "Duyuru",
-      "createdAt": "2026-04-28T21:03:58.8846046Z",
-      "updatedAt": "2026-04-28T21:06:12.01935Z",
-      "isPinned": false,
-      "isVisible": true
-    }
-  ],
+  "news": [],
   "patchNotes": [
     {
       "version": "0.1",
@@ -97,7 +48,7 @@
     "isOnline": false,
     "statusText": "Sunucular Aktif",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-28T21:06:12.0193389Z"
+    "updatedAt": "2026-04-28T21:06:37.5776928Z"
   },
   "supporters": []
 }
