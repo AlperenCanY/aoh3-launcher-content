@@ -1,7 +1,7 @@
 {
   "modId": "league-hard-rp",
   "displayName": "League Hard RP",
-  "version": "0.1.0",
+  "version": "0.0.3B",
   "installMode": "GameRootPatch",
   "targetJarName": "multi_save_feature_fix4c_20260426.jar",
   "packageUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/packages/modv3.zip",
@@ -9,7 +9,7 @@
   "packageSizeBytes": 20939864,
   "installFolderName": "LeagueHardRP",
   "mainFolderInZip": "",
-  "updatedAt": "2026-04-28T17:10:45.7600311Z",
+  "updatedAt": "2026-04-28T17:11:35.9965415Z",
   "files": [
     {
       "relativePath": "multi_save_feature_fix4c_20260426.jar",
