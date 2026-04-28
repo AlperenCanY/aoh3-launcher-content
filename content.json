@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-28T16:02:38.6354286Z",
+  "updatedAt": "2026-04-28T16:02:54.7547784Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "accessPolicy": {
@@ -48,6 +48,18 @@
       "updatedAt": "2026-04-28T16:02:38.6289831Z",
       "isPinned": false,
       "isVisible": true
+    },
+    {
+      "id": "b6e4870c-cbf9-4ee4-b07e-1f8d2a62c6c2",
+      "title": "1",
+      "summary": "1",
+      "content": "1",
+      "dateText": "28.04.2026",
+      "category": "Patch",
+      "createdAt": "2026-04-28T16:02:52.8741267Z",
+      "updatedAt": "2026-04-28T16:02:54.7535013Z",
+      "isPinned": false,
+      "isVisible": true
     }
   ],
   "patchNotes": [
@@ -73,7 +85,7 @@
     "isOnline": true,
     "statusText": "Naber M\u00FCd\u00FCr",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-28T16:02:38.6289726Z"
+    "updatedAt": "2026-04-28T16:02:54.7534914Z"
   },
   "supporters": []
 }
