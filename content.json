@@ -1,12 +1,13 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-29T17:17:29.9650717Z",
+  "updatedAt": "2026-04-29T19:16:10.599613Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "accessPolicy": {
     "maintenanceModeEnabled": false,
     "maintenanceTitle": "Bakim Modu",
     "maintenanceMessage": "League servisleri kisa sureli bakimda.",
+    "maintenanceEstimatedEndText": "",
     "disablePlayDuringMaintenance": true,
     "forceLauncherUpdate": false,
     "minimumLauncherVersion": "",
@@ -33,7 +34,7 @@
       "dateText": "29.04.2026",
       "category": "Duyuru",
       "createdAt": "2026-04-29T17:17:08.5436571Z",
-      "updatedAt": "2026-04-29T17:17:10.0941596Z",
+      "updatedAt": "2026-04-29T19:16:10.59703Z",
       "isPinned": false,
       "isVisible": true
     },
@@ -73,7 +74,14 @@
     "isOnline": false,
     "statusText": "Sunucular Aktif",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-29T17:17:29.9640202Z"
+    "updatedAt": "2026-04-29T19:16:10.5965715Z"
   },
-  "supporters": []
+  "supporters": [
+    {
+      "name": "AlperenCan",
+      "tier": "",
+      "message": "",
+      "isVisible": true
+    }
+  ]
 }
