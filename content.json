@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-29T19:16:10.599613Z",
+  "updatedAt": "2026-04-29T19:16:58.4078513Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "accessPolicy": {
@@ -34,7 +34,7 @@
       "dateText": "29.04.2026",
       "category": "Duyuru",
       "createdAt": "2026-04-29T17:17:08.5436571Z",
-      "updatedAt": "2026-04-29T19:16:10.59703Z",
+      "updatedAt": "2026-04-29T19:16:58.4053658Z",
       "isPinned": false,
       "isVisible": true
     },
@@ -74,11 +74,11 @@
     "isOnline": false,
     "statusText": "Sunucular Aktif",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-29T19:16:10.5965715Z"
+    "updatedAt": "2026-04-29T19:16:58.404915Z"
   },
   "supporters": [
     {
-      "name": "AlperenCan",
+      "name": "\u0130sminizi Buraya Yazd\u0131rmak \u0130stiyorsan\u0131z Destek Olabilirsiniz",
       "tier": "",
       "message": "",
       "isVisible": true
