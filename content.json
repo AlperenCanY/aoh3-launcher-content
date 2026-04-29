@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-29T19:32:46.8109719Z",
+  "updatedAt": "2026-04-29T19:59:07.0547255Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "accessPolicy": {
@@ -34,7 +34,7 @@
       "dateText": "29.04.2026",
       "category": "Duyuru",
       "createdAt": "2026-04-29T17:17:08.5436571Z",
-      "updatedAt": "2026-04-29T19:32:46.8086977Z",
+      "updatedAt": "2026-04-29T19:59:07.0531189Z",
       "isPinned": false,
       "isVisible": true
     },
@@ -74,7 +74,7 @@
     "isOnline": false,
     "statusText": "Sunucular Aktif",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-29T19:32:46.8082494Z"
+    "updatedAt": "2026-04-29T19:59:07.0526471Z"
   },
   "supporters": [
     {
@@ -84,8 +84,26 @@
       "isVisible": true
     },
     {
-      "name": "Revele",
+      "name": "ReVele",
       "tier": "Yap\u0131mc\u0131",
+      "message": "",
+      "isVisible": true
+    },
+    {
+      "name": "RQZS",
+      "tier": "Developer",
+      "message": "",
+      "isVisible": true
+    },
+    {
+      "name": "Murats",
+      "tier": "Yap\u0131mc\u0131",
+      "message": "",
+      "isVisible": true
+    },
+    {
+      "name": "Cans",
+      "tier": "Developer",
       "message": "",
       "isVisible": true
     }
