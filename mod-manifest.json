@@ -1,19 +1,19 @@
 {
   "modId": "league-hard-rp",
   "displayName": "League Hard RP",
-  "version": "0.0.11B",
+  "version": "0.0.12B",
   "installMode": "GameRootPatch",
   "targetJarName": "multi_oil_ship_navalunits22_20260430.jar",
-  "packageUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/packages/0.0.11B/modv9.zip",
+  "packageUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/packages/0.0.12B/modv9.zip",
   "packageMirrors": [
-    "https://cdn.jsdelivr.net/gh/AlperenCanY/aoh3-launcher-content@main/packages/0.0.11B/modv9.zip",
-    "https://github.com/AlperenCanY/aoh3-launcher-content/raw/main/packages/0.0.11B/modv9.zip"
+    "https://cdn.jsdelivr.net/gh/AlperenCanY/aoh3-launcher-content@main/packages/0.0.12B/modv9.zip",
+    "https://github.com/AlperenCanY/aoh3-launcher-content/raw/main/packages/0.0.12B/modv9.zip"
   ],
-  "packageSha256": "67CE4656DFC9B0E4DEC62981BB7E593B2653F43639EDD1D5ACB829A9241EE088",
-  "packageSizeBytes": 22696732,
+  "packageSha256": "A81070A95538B1DC25B53DE32B1BFE6A248A4AD95BDB97E0C49526DE3B421D4A",
+  "packageSizeBytes": 22699609,
   "installFolderName": "LeagueHardRP",
   "mainFolderInZip": "",
-  "updatedAt": "2026-04-30T17:45:58.6039696Z",
+  "updatedAt": "2026-04-30T17:57:01.712921Z",
   "files": [
     {
       "relativePath": "multi_oil_ship_navalunits22_20260430.jar",
@@ -56,19 +56,19 @@
       "sizeBytes": 330
     },
     {
-      "relativePath": "ui/league/gemi.webp",
-      "sha256": "268797DE05EBD4B06AD0F0C62BFAD498A7CCB40ED0648C4F7842A828D8DD8A2E",
-      "sizeBytes": 736
+      "relativePath": "ui/league/gemi.png",
+      "sha256": "FADFA71351F0C3B47E35703778C8FAA8F4C4D57FE1AA94023E037C571324845A",
+      "sizeBytes": 1837
     },
     {
-      "relativePath": "ui/league/kaynaklar.webp",
-      "sha256": "F8D43128A630473A364B5E78EB72422196436981E1234C281BCD7EBB155FA16E",
-      "sizeBytes": 1552
+      "relativePath": "ui/league/kaynaklar.png",
+      "sha256": "D8A22BD89D189A29227B53745E06345A088A72C396BC727A2F94F7CE5A8430C8",
+      "sizeBytes": 2653
     },
     {
-      "relativePath": "ui/league/oil_bar.webp",
-      "sha256": "B20A4BE04CB6A02BB6B3439F2CE5209B752B3955B5E4C633A3B36D5D20FDE013",
-      "sizeBytes": 1850
+      "relativePath": "ui/league/oil_bar.png",
+      "sha256": "83C10013313D1D214568E416398D82508B938EFE2AD995F717DAD7C16420A049",
+      "sizeBytes": 3126
     },
     {
       "relativePath": "game/navalunits/unitsImages/1.png",
