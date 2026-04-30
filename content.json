@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-30T17:18:00.8912682Z",
+  "updatedAt": "2026-04-30T17:23:14.356223Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "accessPolicy": {
@@ -73,6 +73,18 @@
       "updatedAt": "2026-04-30T16:07:44.1184889Z",
       "isPinned": false,
       "isVisible": true
+    },
+    {
+      "id": "f89f46d6-5e51-4031-8f4e-36d9a046319d",
+      "title": "\u015Eamil\u0027in Am\u0131 G\u00F6t\u00FC Da\u011F\u0131ld\u0131",
+      "summary": "Valla Da\u011F\u0131ld\u0131",
+      "content": "Pat\u0131r K\u00FCt\u00FCr Da\u011F\u0131ld\u0131",
+      "dateText": "30.04.2026",
+      "category": "Onemli",
+      "createdAt": "2026-04-30T17:23:13.0066331Z",
+      "updatedAt": "2026-04-30T17:23:14.3552279Z",
+      "isPinned": false,
+      "isVisible": true
     }
   ],
   "patchNotes": [
@@ -98,7 +110,7 @@
     "isOnline": false,
     "statusText": "Sunucular Aktif",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-30T17:18:00.8889678Z"
+    "updatedAt": "2026-04-30T17:23:14.3552177Z"
   },
   "supporters": [
     {
