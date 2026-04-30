@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-30T17:23:14.356223Z",
+  "updatedAt": "2026-04-30T17:24:29.2144947Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "accessPolicy": {
@@ -82,7 +82,7 @@
       "dateText": "30.04.2026",
       "category": "Onemli",
       "createdAt": "2026-04-30T17:23:13.0066331Z",
-      "updatedAt": "2026-04-30T17:23:14.3552279Z",
+      "updatedAt": "2026-04-30T17:24:29.2136295Z",
       "isPinned": false,
       "isVisible": true
     }
@@ -110,7 +110,7 @@
     "isOnline": false,
     "statusText": "Sunucular Aktif",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-30T17:23:14.3552177Z"
+    "updatedAt": "2026-04-30T17:24:29.2136159Z"
   },
   "supporters": [
     {
