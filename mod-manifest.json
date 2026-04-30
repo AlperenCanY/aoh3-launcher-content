@@ -1,20 +1,104 @@
 {
   "modId": "league-hard-rp",
   "displayName": "League Hard RP",
-  "version": "0.0.4b",
+  "version": "0.0.11B",
   "installMode": "GameRootPatch",
-  "targetJarName": "multi_diplomacy_fixed1.jar",
-  "packageUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/packages/modv2.zip",
-  "packageSha256": "120A1D2B48289978E53F7298A88A1B35A1F9A4F7DE98B24F1B338F7BA1873B94",
-  "packageSizeBytes": 20965373,
+  "targetJarName": "multi_oil_ship_navalunits22_20260430.jar",
+  "packageUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/packages/0.0.11B/modv9.zip",
+  "packageMirrors": [
+    "https://cdn.jsdelivr.net/gh/AlperenCanY/aoh3-launcher-content@main/packages/0.0.11B/modv9.zip",
+    "https://github.com/AlperenCanY/aoh3-launcher-content/raw/main/packages/0.0.11B/modv9.zip"
+  ],
+  "packageSha256": "67CE4656DFC9B0E4DEC62981BB7E593B2653F43639EDD1D5ACB829A9241EE088",
+  "packageSizeBytes": 22696732,
   "installFolderName": "LeagueHardRP",
   "mainFolderInZip": "",
-  "updatedAt": "2026-04-28T17:46:40.211162Z",
+  "updatedAt": "2026-04-30T17:45:58.6039696Z",
   "files": [
     {
-      "relativePath": "multi_diplomacy_fixed1.jar",
-      "sha256": "95F99F38BAD24E77EAE873EF0926124FE9952F1A2BAA62531D83C9C96AE0E0D7",
-      "sizeBytes": 22460097
+      "relativePath": "multi_oil_ship_navalunits22_20260430.jar",
+      "sha256": "8F7DF4A9477065914F073918C0179565D9FD289B29154674C0EFE646635C912C",
+      "sizeBytes": 22592532
+    },
+    {
+      "relativePath": "game/navalunits/AlperenCan.json",
+      "sha256": "396C8CE6D1DADC03A9357003263425B73A31B383E5A1852FD532E97688373D6E",
+      "sizeBytes": 336
+    },
+    {
+      "relativePath": "game/navalunits/Arben.json",
+      "sha256": "1B3B72A38A334D2F1C2F1D1B1954CE7592FD1762C814B962239E14AB518DFD7E",
+      "sizeBytes": 331
+    },
+    {
+      "relativePath": "game/navalunits/Drago.json",
+      "sha256": "1493E788343970C8B52F464FFD5014C2CA221996A6401544C098E6D599DD149A",
+      "sizeBytes": 331
+    },
+    {
+      "relativePath": "game/navalunits/Gemi.json",
+      "sha256": "D550E936CE41A6C00BE0B00C5C1CA2FE2EC9D337F6EC1253513AEA46BD5DF0C2",
+      "sizeBytes": 330
+    },
+    {
+      "relativePath": "game/navalunits/Murats.json",
+      "sha256": "EEC83D5DB40A14E8C6BF1C81280A015A047E4B76BDFD6BF5C355635273F86ADA",
+      "sizeBytes": 332
+    },
+    {
+      "relativePath": "game/navalunits/ReVele.json",
+      "sha256": "89255D0A4351BDAA686E1665800086DF1FFFF6C83591800378C3533B94F8AA37",
+      "sizeBytes": 332
+    },
+    {
+      "relativePath": "game/navalunits/RQZS.json",
+      "sha256": "6C7F8C073CC35BB8DAD691D498CF6DFFCD261755C9B7CDBA63CF37417F003415",
+      "sizeBytes": 330
+    },
+    {
+      "relativePath": "ui/league/gemi.webp",
+      "sha256": "268797DE05EBD4B06AD0F0C62BFAD498A7CCB40ED0648C4F7842A828D8DD8A2E",
+      "sizeBytes": 736
+    },
+    {
+      "relativePath": "ui/league/kaynaklar.webp",
+      "sha256": "F8D43128A630473A364B5E78EB72422196436981E1234C281BCD7EBB155FA16E",
+      "sizeBytes": 1552
+    },
+    {
+      "relativePath": "ui/league/oil_bar.webp",
+      "sha256": "B20A4BE04CB6A02BB6B3439F2CE5209B752B3955B5E4C633A3B36D5D20FDE013",
+      "sizeBytes": 1850
+    },
+    {
+      "relativePath": "game/navalunits/unitsImages/1.png",
+      "sha256": "A7B2451C0637C1BBAF92C4737A0DF5CB5A727B654B0D93A1DCB19CEF5BF80E05",
+      "sizeBytes": 1100399
+    },
+    {
+      "relativePath": "game/navalunits/unitsImages/2.png",
+      "sha256": "0F3889451A645D50DB35ACE5CE5B334CC8CFD0D496180F7C5686E5F4AF7D08E6",
+      "sizeBytes": 80570
+    },
+    {
+      "relativePath": "game/navalunits/unitsImages/3.png",
+      "sha256": "822B6CD1D7FAA0BFF97D24CFD35C3A9A420ACD5275FD6FEF6DFF7AB152E625A4",
+      "sizeBytes": 35102
+    },
+    {
+      "relativePath": "game/navalunits/unitsImages/4.png",
+      "sha256": "149F9D4CDF9BB1A31CDA45DA61EB4C8102957B3AED4055AFB3E5D6ACBE0525A2",
+      "sizeBytes": 174318
+    },
+    {
+      "relativePath": "game/navalunits/unitsImages/5.jpg",
+      "sha256": "ADC5DC0B2799FF4A4F9EB1AD63189DBE0D13315C5AB350964332BEF17EC089CD",
+      "sizeBytes": 52360
+    },
+    {
+      "relativePath": "game/navalunits/unitsImages/6.png",
+      "sha256": "4156793ABA2EA9C1264C39BD66BE5C0A2378E37AE0F05B087C5C8018FBCE2874",
+      "sizeBytes": 169368
     }
   ],
   "notes": "",
