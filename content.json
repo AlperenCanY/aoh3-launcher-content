@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-29T19:59:07.0547255Z",
+  "updatedAt": "2026-04-30T14:24:39.9533634Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "accessPolicy": {
@@ -34,7 +34,7 @@
       "dateText": "29.04.2026",
       "category": "Duyuru",
       "createdAt": "2026-04-29T17:17:08.5436571Z",
-      "updatedAt": "2026-04-29T19:59:07.0531189Z",
+      "updatedAt": "2026-04-30T14:24:39.9511321Z",
       "isPinned": false,
       "isVisible": true
     },
@@ -74,7 +74,7 @@
     "isOnline": false,
     "statusText": "Sunucular Aktif",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-29T19:59:07.0526471Z"
+    "updatedAt": "2026-04-30T14:24:39.9507507Z"
   },
   "supporters": [
     {
@@ -86,7 +86,7 @@
     {
       "name": "ReVele",
       "tier": "Yap\u0131mc\u0131",
-      "message": "",
+      "message": "123",
       "isVisible": true
     },
     {
