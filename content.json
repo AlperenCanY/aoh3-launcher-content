@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-30T17:46:11.1044621Z",
+  "updatedAt": "2026-04-30T17:57:12.6686593Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "accessPolicy": {
@@ -82,12 +82,21 @@
       "dateText": "30.04.2026",
       "category": "Onemli",
       "createdAt": "2026-04-30T17:23:13.0066331Z",
-      "updatedAt": "2026-04-30T17:46:11.104047Z",
+      "updatedAt": "2026-04-30T17:57:12.6685942Z",
       "isPinned": false,
       "isVisible": true
     }
   ],
   "patchNotes": [
+    {
+      "version": "0.1",
+      "title": "League Mod 0.1",
+      "dateText": "26.04.2026",
+      "lines": [
+        "Modumuz \u00C7\u0131k\u0131\u015F\u0131n\u0131 Yapt\u0131"
+      ],
+      "isVisible": true
+    },
     {
       "version": "0.1",
       "title": "League Mod 0.1",
@@ -110,7 +119,7 @@
     "isOnline": false,
     "statusText": "Sunucular Aktif",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-30T17:46:11.1040231Z"
+    "updatedAt": "2026-04-30T17:57:12.6685739Z"
   },
   "supporters": [
     {
@@ -140,6 +149,12 @@
     {
       "name": "Cans",
       "tier": "Developer",
+      "message": "",
+      "isVisible": true
+    },
+    {
+      "name": "\u0130sminizi Buraya Yazd\u0131rmak \u0130stiyorsan\u0131z Destek Olabilirsiniz",
+      "tier": "",
       "message": "",
       "isVisible": true
     }
