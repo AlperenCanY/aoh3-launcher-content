@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-30T16:07:44.1200297Z",
+  "updatedAt": "2026-04-30T17:18:00.8912682Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
   "accessPolicy": {
@@ -17,7 +17,7 @@
     "forceModUpdateMessage": "Devam etmek icin League mod guncellemesi gerekli."
   },
   "campaign": {
-    "title": "League 1",
+    "title": "League",
     "subtitle": "Testing",
     "description": "- Testing Version",
     "buttonText": "Detayi Ac",
@@ -34,7 +34,7 @@
       "dateText": "29.04.2026",
       "category": "Duyuru",
       "createdAt": "2026-04-29T17:17:08.5436571Z",
-      "updatedAt": "2026-04-30T14:24:39.9511321Z",
+      "updatedAt": "2026-04-30T17:18:00.8894837Z",
       "isPinned": false,
       "isVisible": true
     },
@@ -98,7 +98,7 @@
     "isOnline": false,
     "statusText": "Sunucular Aktif",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-30T16:07:44.1184774Z"
+    "updatedAt": "2026-04-30T17:18:00.8889678Z"
   },
   "supporters": [
     {
