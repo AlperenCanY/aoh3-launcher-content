@@ -1,8 +1,9 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-30T18:14:12.1487143Z",
+  "updatedAt": "2026-04-30T23:01:59.4138874Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
+  "discordRoleApiUrl": "",
   "accessPolicy": {
     "maintenanceModeEnabled": false,
     "maintenanceTitle": "Bakim Modu",
@@ -34,7 +35,7 @@
       "dateText": "29.04.2026",
       "category": "Duyuru",
       "createdAt": "2026-04-29T17:17:08.5436571Z",
-      "updatedAt": "2026-04-30T18:14:12.1477285Z",
+      "updatedAt": "2026-04-30T23:01:59.411346Z",
       "isPinned": false,
       "isVisible": true
     },
@@ -119,7 +120,7 @@
     "isOnline": false,
     "statusText": "Sunucular Aktif",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-30T18:14:12.1472741Z"
+    "updatedAt": "2026-04-30T23:01:59.410861Z"
   },
   "supporters": [
     {
@@ -157,6 +158,37 @@
       "tier": "",
       "message": "",
       "isVisible": true
+    }
+  ],
+  "rolePolicies": [
+    {
+      "id": "ff60bb8c52954a02839696f13dce75e5",
+      "discordRoleId": "1437782668896108544",
+      "title": "League",
+      "description": "Y\u00F6netici",
+      "accentHex": "5E5E5E",
+      "priority": 50,
+      "isDefault": false,
+      "permissions": [
+        "launcher.access",
+        "launcher.beta",
+        "launcher.experimental_updates",
+        "launcher.hidden_announcements",
+        "launcher.play",
+        "launcher.priority_support",
+        "launcher.staff_tools",
+        "launcher.supporter_badge"
+      ]
+    },
+    {
+      "id": "773a356570b34bc585620946c8e1df9e",
+      "discordRoleId": "1374875041191301130",
+      "title": "Kullan\u0131c\u0131",
+      "description": "Kullan\u0131c\u0131",
+      "accentHex": "#38983B",
+      "priority": 1,
+      "isDefault": false,
+      "permissions": []
     }
   ]
 }
