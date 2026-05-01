@@ -1,19 +1,19 @@
 {
   "modId": "league-hard-rp",
   "displayName": "League Hard RP",
-  "version": "0.0.14B",
+  "version": "0.0.20B",
   "installMode": "GameRootPatch",
   "targetJarName": "naval.jar",
-  "packageUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/packages/0.0.14B/naval.zip",
+  "packageUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/packages/0.0.20B/naval.zip",
   "packageMirrors": [
-    "https://cdn.jsdelivr.net/gh/AlperenCanY/aoh3-launcher-content@main/packages/0.0.14B/naval.zip",
-    "https://github.com/AlperenCanY/aoh3-launcher-content/raw/main/packages/0.0.14B/naval.zip"
+    "https://cdn.jsdelivr.net/gh/AlperenCanY/aoh3-launcher-content@main/packages/0.0.20B/naval.zip",
+    "https://github.com/AlperenCanY/aoh3-launcher-content/raw/main/packages/0.0.20B/naval.zip"
   ],
   "packageSha256": "6DE6F1F34E683259C5F10277B9906DCBB25E1E3A9ABE7FC1894019FA75C5EEDB",
   "packageSizeBytes": 21078671,
   "installFolderName": "LeagueHardRP",
   "mainFolderInZip": "",
-  "updatedAt": "2026-04-30T18:14:01.702728Z",
+  "updatedAt": "2026-05-01T23:19:59.7024866Z",
   "files": [
     {
       "relativePath": "naval.jar",
