@@ -1,8 +1,10 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-05-01T17:29:23.5063333Z",
+  "updatedAt": "2026-05-01T23:20:08.6981148Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
+  "launcherUpdateUrl": "",
+  "launcherUpdateChannel": "",
   "discordRoleApiUrl": "https://api.leagueonline.com.tr/api/launcher/discord/resolve-role",
   "discordGuildId": "1374826064550826134",
   "accessPolicy": {
@@ -36,7 +38,7 @@
       "dateText": "29.04.2026",
       "category": "Duyuru",
       "createdAt": "2026-04-29T17:17:08.5436571Z",
-      "updatedAt": "2026-05-01T16:53:15.7364805Z",
+      "updatedAt": "2026-05-01T23:20:08.6929396Z",
       "isPinned": false,
       "isVisible": true
     },
@@ -133,7 +135,7 @@
     "isOnline": false,
     "statusText": "Sunucular Aktif",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-05-01T17:29:23.5019023Z"
+    "updatedAt": "2026-05-01T23:20:08.6922838Z"
   },
   "supporters": [
     {
