@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-05-01T23:45:17.5958287Z",
+  "updatedAt": "2026-05-01T23:53:25.6666596Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://leagueonline.com.tr/mod-manifest.json",
   "launcherUpdateUrl": "",
@@ -38,7 +38,7 @@
       "dateText": "29.04.2026",
       "category": "Duyuru",
       "createdAt": "2026-04-29T17:17:08.5436571Z",
-      "updatedAt": "2026-05-01T23:45:17.5926411Z",
+      "updatedAt": "2026-05-01T23:53:25.6616025Z",
       "isPinned": false,
       "isVisible": true
     },
@@ -147,7 +147,7 @@
     "isOnline": false,
     "statusText": "Sunucular Aktif",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-05-01T23:45:17.5921887Z"
+    "updatedAt": "2026-05-01T23:53:25.6607076Z"
   },
   "supporters": [
     {
