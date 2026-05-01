@@ -1,9 +1,10 @@
 {
   "version": "1.0.1",
-  "updatedAt": "2026-04-30T23:28:27.9417157Z",
+  "updatedAt": "2026-05-01T16:53:15.7409707Z",
   "backgroundImageUrl": "",
   "modManifestUrl": "https://raw.githubusercontent.com/AlperenCanY/aoh3-launcher-content/main/mod-manifest.json",
-  "discordRoleApiUrl": "",
+  "discordRoleApiUrl": "https://api.leagueonline.com.tr/api/launcher/discord/resolve-role",
+  "discordGuildId": "1374826064550826134",
   "accessPolicy": {
     "maintenanceModeEnabled": false,
     "maintenanceTitle": "Bakim Modu",
@@ -35,7 +36,7 @@
       "dateText": "29.04.2026",
       "category": "Duyuru",
       "createdAt": "2026-04-29T17:17:08.5436571Z",
-      "updatedAt": "2026-04-30T23:28:27.9370762Z",
+      "updatedAt": "2026-05-01T16:53:15.7364805Z",
       "isPinned": false,
       "isVisible": true
     },
@@ -120,7 +121,7 @@
     "isOnline": false,
     "statusText": "Sunucular Aktif",
     "detailText": "Sunucular S\u00FCresiz Aktif",
-    "updatedAt": "2026-04-30T23:28:27.9366274Z"
+    "updatedAt": "2026-05-01T16:53:15.7359601Z"
   },
   "supporters": [
     {
